@@ -27,6 +27,9 @@
     "editor.rulers": [
         90
     ],
+    "flake8.args": [
+        "--max-line-length=90"
+    ],
     "editor.tabSize": 4,
     "editor.suggestSelection": "first",
     "git.enableSmartCommit": true,
@@ -73,12 +76,14 @@
         "--profile",
         "black"
     ],
+    "peacock.remoteColor": "#1857a4",
+    "peacock.color": "#1857a4",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#1f6fd0",
         "activityBar.background": "#1f6fd0",
         "activityBar.foreground": "#e7e7e7",
         "activityBar.inactiveForeground": "#e7e7e799",
-        "activityBarBadge.background": "#ffff00",
+        "activityBarBadge.background": "#ee90bb",
         "activityBarBadge.foreground": "#15202b",
         "commandCenter.border": "#e7e7e799",
         "sash.hoverBorder": "#1f6fd0",
@@ -91,5 +96,5 @@
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#1857a499",
         "titleBar.inactiveForeground": "#e7e7e799"
-    }
+    },
 }
