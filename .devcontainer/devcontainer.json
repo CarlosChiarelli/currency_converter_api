@@ -30,8 +30,8 @@
                 "njpwerner.autodocstring",
                 "littlefoxteam.vscode-python-test-adapter",
                 "ms-python.mypy-type-checker",
-                "ms-python.flake8",
                 "ms-python.black-formatter",
+                "ms-python.flake8",
                 "ms-python.isort",
                 "esbenp.prettier-vscode",
                 "MS-CEINTL.vscode-language-pack-pt-BR",
@@ -39,7 +39,8 @@
                 "eamodio.gitlens",
                 "rangav.vscode-thunder-client",
                 "dracula-theme.theme-dracula",
-                "pkief.material-icon-theme"
+                "pkief.material-icon-theme",
+                "johnpapa.vscode-peacock"
             ]
         }
     }

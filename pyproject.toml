@@ -10,6 +10,8 @@ python = "^3.11"
 fastapi = "^0.109.2"
 pydantic = "^2.6.1"
 uvicorn = "^0.27.1"
+requests = "^2.31.0"
+aiohttp = "^3.9.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
